@@ -1,5 +1,5 @@
 # LinearRegressionProject
-Your neighbor is a real estate agent and wants some help predicting housing prices for regions in the USA. It would be great if you could somehow create a model for her that allows her to put in a few features of a house and returns back an estimate of what the house would sell for.
+Your neighbor is a real estate agent and wants some help predicting housing prices for regions in the USA. I have created a model that allows her/him to put in a few features of a house and returns back an estimate of what the house would sell for.
 
 To solve this,I have applied simple Linear Regression to predict the housing prices
 
